@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1626/1626319.png" alt="kausik bhaumik" height="30" width="40" /></a>
+<a href="https://codepen.io/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111501.png" alt="kausik bhaumik" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/kausik bhaumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kausik bhaumik" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kausik bhaumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kausik bhaumik" height="30" width="40" /></a>
 <a href="https://fb.com/kausik bhaumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kausik bhaumik" height="30" width="40" /></a>
