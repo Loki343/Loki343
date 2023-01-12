@@ -21,11 +21,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111501.png" alt="kausik bhaumik" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/kausik bhaumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kausik bhaumik" height="30" width="40" /></a>
-<a href="https://codesandbox.com/kausik bhaumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kausik bhaumik" height="30" width="40" /></a>
-<a href="https://fb.com/kausik bhaumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kausik bhaumik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kausikbhaumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kausikbhaumik" height="30" width="40" /></a>
-<a href="https://discord.gg/kush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kush" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="kausik bhaumik" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/6843/6843458.png" alt="kausik bhaumik" height="30" width="40" /></a>
+<a href="https://fb.com/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="kausik bhaumik" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kausikbhaumik" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5WiMjFdgZpLCHHPGr80S0ffh0qDEw3X1IA&usqp=CAU" alt="kausikbhaumik" height="30" width="40" /></a>
+<a href="https://discord.gg/kush" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png" alt="kush" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
