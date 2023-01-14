@@ -8,15 +8,20 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS and NextJS**
+- 🌱 I’m currently learning **TypeScript and NextJS**
 
-- 👨‍💻 All of my projects are available at [https://loki343.github.io/](https://loki343.github.io/)
+- 👨‍💻 All of my projects are available at (Portfolio): [https://loki343.github.io/](https://loki343.github.io/)
+
 <img align="right" width="400" height="200" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding-gif"/>
+
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **kausikbhaumik42@gmail.com**
+- 📫 How to reach me : <br/>
+  Email : **kausikbhaumik42@gmail.com**<br/>
+  Phone : **+917980710518**<br/>
+  Location: **Konnagar,West Bengal**<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a8it3HJ8UdMwCq5drbuR9JYZxdC1IBfU/view?usp=share_link](https://drive.google.com/file/d/1a8it3HJ8UdMwCq5drbuR9JYZxdC1IBfU/view?usp=share_link)
+- 📄 Know about my experiences (RESUME) : [https://drive.google.com/file/d/1a8it3HJ8UdMwCq5drbuR9JYZxdC1IBfU/view?usp=share_link](https://drive.google.com/file/d/1a8it3HJ8UdMwCq5drbuR9JYZxdC1IBfU/view?usp=share_link)
 
 - ⚡ Fun fact **I am very funny**
 
