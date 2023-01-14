@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at (Portfolio): [https://loki343.github.io/](https://loki343.github.io/)
 
-<img align="right" width="400" height="200" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding-gif"/>
+<img align="right" width="300" height="150" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding-gif"/>
 
 - 💬 Ask me about **MERN**
 
