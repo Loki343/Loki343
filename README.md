@@ -19,7 +19,7 @@
 - 📫 How to reach me : <br/>
   Email : **kausikbhaumik42@gmail.com**<br/>
   Phone : **+917980710518**<br/>
-  Location: **Konnagar,West Bengal**<br/>
+  Location: **Kolkata,West Bengal**<br/>
 
 - 📄 Know about my experiences (RESUME) : [https://drive.google.com/file/d/1a8it3HJ8UdMwCq5drbuR9JYZxdC1IBfU/view?usp=share_link](https://drive.google.com/file/d/1a8it3HJ8UdMwCq5drbuR9JYZxdC1IBfU/view?usp=share_link)
 
