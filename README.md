@@ -41,7 +41,7 @@
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="css3" width="40" height="40"/></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki343&show_icons=true&locale=en&layout=compact" alt="loki343" /></p>
-<br/>
+<br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loki343&show_icons=true&locale=en" alt="loki343" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki343&" alt="loki343" /></p>
