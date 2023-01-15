@@ -28,13 +28,23 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100006364819489" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="kausik bhaumik" height="40" width="40" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=917980710518&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/kausik-bhaumik-617179229/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="kausik bhaumik" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=917980710518&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" /></a>
 <a href="https://www.instagram.com/kausik.bhaumik/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" alt="kausik bhaumik" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="css3" width="40" height="40"/></a></p>
+<p align="left"> 
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" width="40" height="40"/> 
+  </a> 
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki343&show_icons=true&locale=en&layout=compact" alt="loki343" /></p>
 
