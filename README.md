@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100006364819489" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="kausik bhaumik" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006364819489" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="kausik bhaumik" height="40" width="40" /></a>
   <a href="https://api.whatsapp.com/send/?phone=917980710518&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/kausik-bhaumik-617179229/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="kausik bhaumik" height="40" width="40" /></a>
 <a href="https://www.instagram.com/kausik.bhaumik/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" alt="kausik bhaumik" height="40" width="40" /></a>
