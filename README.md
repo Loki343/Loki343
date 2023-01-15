@@ -27,14 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111501.png" alt="kausik bhaumik" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="kausik bhaumik" height="40" width="40" /></a>
-<a href="https://codesandbox.com/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/6843/6843458.png" alt="kausik bhaumik" height="40" width="40" /></a>
-<a href="https://fb.com/kausik bhaumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="kausik bhaumik" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/kausikbhaumik" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5WiMjFdgZpLCHHPGr80S0ffh0qDEw3X1IA&usqp=CAU" alt="kausikbhaumik" height="40" width="40" /></a>
-<a href="https://discord.gg/kush" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png" alt="kush" height="40" width="40" /></a>
-<a href="https://web.whatsapp.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" alt="kausik bhaumik" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006364819489" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="kausik bhaumik" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/kausik-bhaumik-617179229/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="kausik bhaumik" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=917980710518&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" /></a>
+<a href="https://www.instagram.com/kausik.bhaumik/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" alt="kausik bhaumik" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
