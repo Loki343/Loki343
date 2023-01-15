@@ -21,7 +21,7 @@
   Phone : **+917980710518**<br/>
   Location: **Kolkata,West Bengal**<br/>
 
-- 📄 Know about my experiences (RESUME) : [https://drive.google.com/file/d/1a8it3HJ8UdMwCq5drbuR9JYZxdC1IBfU/view?usp=share_link](https://drive.google.com/file/d/1a8it3HJ8UdMwCq5drbuR9JYZxdC1IBfU/view?usp=share_link)
+- 📄 Know about my experiences (RESUME) : https://drive.google.com/file/d/1lRE7_kUXt-3xScFyWIY0ZQS1HbWXnJC7/view?usp=share_link
 
 - ⚡ Fun fact **I am very funny**
 
