@@ -44,6 +44,21 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/128/9416/9416348.png" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAZlBMVEX///8AAACoqKiurq7l5eVMTEzq6uobGxuNjY3W1tbw8PC9vb1fX1/19fXQ0NDh4eGdnZ22traGhoZZWVlnZ2eVlZV4eHhBQUGAgIAVFRVycnInJyczMzNTU1MsLCwgICANDQ3Hx8c1eqeHAAADsElEQVR4nO2a2ZKqMBCG8yOggGFzwV3n/V/ytI6OSrpZvLCrTuW/sUYC/Zn0ljDGeHl5eXl5eXl5eXl5/feyyvZTZQCb6No3lbL9SaprP8l07cczXftmEyvb/9G1n9W69sODrn0T5br2lytd++VR136OQtW+RaBq3xyVF6CGbg2qoFuEQ+zGDA+CScfVKuBVmLAMhHk+na3JhPtI7dkBujy2AS96yhEL9pY18utFUY0L0OEyEdYTRjQDJgVK5o4K1xqUvQwusS1f/mz3KMARyw4A2Z8qwO04C+zbX6U4d/UFQL6QrUTo8JANzs53DZwaFGMadgOkuEiJsxPANlg7TG4N6gcwAeafAJgEeF/RHxzdfcgAALOQ7HQDmBLn12fHU64GDQEIt0Ik9ADQ9ddYnLNxMQSAPJoP6j6A9Ixn6z0DW4N6AW6xtOMt9QGY7BmLOaasLw8DsLhwo3oBqPId7n63FaJ5GAD9FC4S+gHMAZvb507KZwMBKIczHjQAILxVBgrli3ASMBQgPcAdNwCATNPa5+2UMB6AsogbCUMAzBIRpWCxCRgMQHnUsRYhsKmrloUzDjiLRzHDAczJSWQRX9Nbxmj+mcL4AUDiLEKEZu5qyQDIG7ERAJTLWt1RVz/wJ3LfPRqxqxkDQL703jsMcsId5aKt3NWMAijIoccClKD4zSHO1SgACuq3RRiWiK5jVmDSyAcA1M++RkI/gI3ubdECCz4SRwKEbzWhH2CGfXq3w7RjHwCYyWtN6AWg1vgxY5mQjccCUGZ9LkIfQDh9+dlrvh6xAJuJsTSeMooLEG6fkTCqJaMumYtFFmBZmlkTFss1A0DT+md1XFOagxsuAcxpqW3OAVBmeSxCNwAZfD+LDLinSQAVojLhfIC4Lo9F6ASgFNw+DJ6jcdxAAjDhak4exNax7BEJnQA7nBym6b1B6wKw6Q0gvhniAcihw16ACXdr1l6VNkAa2OQSWorYiLbRwV4AsPvmDiBWw5A/WKid3f47QEKFe4dr8BR7YFsIADSu/AXYZJySa8yxTZiN2k0F4wPpb82Nrx9SLzO7RYJ0QrKm/u3EdwBFOyXHYpn6NVQLV6fXH1LOWNVZXNdSD5TVszc0W68+OrUr2J3mN1Upn/dSLGq/crB75SNnCnXtRajap4pf1075xQvlO+2334lz8PltVdrvf81SexFsey/8deXaNcFMlN+CU8nWBrDaNcEk2pFgfrQjwahPgVX+hyAvLy8vLy8vLy8vL6//WP8AQyskJV4+1vEAAAAASUVORK5CYII=" alt="JavaScript" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki343&show_icons=true&locale=en&layout=compact" alt="loki343" /></p>
