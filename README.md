@@ -61,7 +61,7 @@
     <img src="" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="" alt="JavaScript" width="40" height="40"/>
+    <img src="" alt="tsx" width="40" height="40"/>
   </a>
 </p>
 
