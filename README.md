@@ -3,14 +3,13 @@
     I am Kausik Bhaumik (Loki343@)</h1>
 <h3 align="center">A passionate full-stack-developer from India</h3>
 <p align="center">
-<img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="coding-gif"/>
+    <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="coding-gif"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20the%20New%20World%20of%20CODING;&center=true&width=500&height=50">
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=loki343&label=Profile%20views&color=0e75b6&style=flat" alt="loki343" /> </p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loki343" alt="loki343" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loki343" alt="loki343" /></a> </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4   align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
@@ -34,6 +33,10 @@
 - ⚡ Fun fact **I am very funny**
 
 
+<br/>
+
+
+## 📱🔎📨 **Connect with me:**
 <p align="left">
     <a href="https://api.whatsapp.com/send/?phone=917980710518&text&type=phone_number&app_absent=0" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" />
@@ -42,6 +45,8 @@
         <img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="kausik bhaumik" height="40" width="40" />
     </a>
 </p>
+<br/>
+
 
 ## 🚀 **Languages and Tools:**
 <p align="left"> 
@@ -73,9 +78,9 @@
 
 ## 📊 **My Github Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki343&show_icons=true&locale=en&layout=compact" alt="loki343" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki343&show_icons=true&locale=en&layout=compact" alt="loki343" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=loki343&show_icons=true&locale=en" alt="loki343" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=loki343&show_icons=true&locale=en" alt="loki343" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki343&" alt="loki343" /></p>
 
