@@ -33,7 +33,7 @@
 
 - ⚡ Fun fact **I am very funny**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
     <a href="https://api.whatsapp.com/send/?phone=917980710518&text&type=phone_number&app_absent=0" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" />
@@ -43,7 +43,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 **Languages and Tools:**
 <p align="left"> 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" width="40" height="40"/> 
@@ -71,6 +71,8 @@
   </a>
 </p>
 
+## 📊 **My Github Stats**
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki343&show_icons=true&locale=en&layout=compact" alt="loki343" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=loki343&show_icons=true&locale=en" alt="loki343" /></p>
@@ -84,6 +86,16 @@
 <br>
 
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=If%20You%20Like%20My%20Profile%20Follow%20Me;&center=true&width=500&height=50">
 </p>
+  
+## ❤ **Views and Followers**
+  
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img width="150px" src="https://komarev.com/ghpvc/?username=Loki343">
+</a>
+<a href="https://github.com/Loki343?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+
