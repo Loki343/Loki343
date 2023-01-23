@@ -99,8 +99,8 @@
   
 ## ❤ **Views and Followers**
   
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Loki343/github-profile-views-counter">
     <img width="150px" src="https://komarev.com/ghpvc/?username=Loki343">
 </a>
-<a href="https://github.com/Loki343?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Loki343?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/Loki343?label=Followers&style=social" alt="GitHub Badge"></a>
 
