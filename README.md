@@ -49,41 +49,18 @@
 
 
 ## 🚀 **Languages and Tools:**
-<p align="left"> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" width="40" height="40"/> 
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/9416/9416348.png" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="" alt="tsx" width="40" height="40"/>
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 **My Github Stats**
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki343&show_icons=true&locale=en&layout=compact" alt="loki343" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=loki343&show_icons=true&locale=en" alt="loki343" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="potbharenitin6684" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki343&" alt="loki343" /></p>
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="potbharenitin6684" /></p>
 
+
+<!-- support me section -->
 <h2 align='center'>Support Me By ⭐</h2>
 <br>
 <p align='center'>
