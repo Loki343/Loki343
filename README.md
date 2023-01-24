@@ -88,8 +88,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="potbharenitin6684" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="potbharenitin6684" />
-<img align="left" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="potbharenitin6684" />
-<img align="right" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="potbharenitin6684" />
+<img align="left" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="potbharenitin6684" />
+<img align="right" width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="potbharenitin6684" />
 
 <!-- support me section -->
 <!-- <h2 align='center'>Support Me By ⭐</h2>
