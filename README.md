@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **TypeScript and NextJS**
 
-- 👨‍💻 All of my projects are available at (Portfolio): <a href="https://loki343.github.io">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at: <a href="https://loki343.github.io">PORTFOLIO</a>
 
 <img align="right" width="300" height="150" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding-gif"/>
 
