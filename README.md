@@ -36,7 +36,7 @@
 <br/>
 
 
-## 📱🔎📨 **Connect with me:**
+## 📱 **Connect with me:**
 <p align="left">
     <a href="https://api.whatsapp.com/send/?phone=917980710518&text&type=phone_number&app_absent=0" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" />
