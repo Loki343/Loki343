@@ -81,7 +81,7 @@
 
 <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>
 
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" />
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="potbharenitin6684" />
 
