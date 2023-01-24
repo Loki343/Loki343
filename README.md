@@ -83,6 +83,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" />
 
+<br/>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="potbharenitin6684" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="potbharenitin6684" />
@@ -98,9 +100,6 @@
 
 <br/>
 
-<p width="100%" align="center">
-    <h2 align='center'>Support Me By ⭐</h2>
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=If%20You%20Like%20My%20Profile%20Follow%20Me;&center=true&width=500&height=50">
 </p>
