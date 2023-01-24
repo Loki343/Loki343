@@ -98,7 +98,7 @@
 
 <br/>
 
-<p align="center">
+<p width="100%" align="center">
     <h2 align='center'>Support Me By ⭐</h2>
 </p>
 <p align="center">
