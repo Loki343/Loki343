@@ -89,8 +89,9 @@
 
 <img align="left" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="potbharenitin6684" />
 
-<img align="center" width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="potbharenitin6684" />
-
+<p align="center">
+    <img align="center" width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="potbharenitin6684" />
+</p>
 <!-- support me section -->
 <!-- <h2 align='center'>Support Me By ⭐</h2>
 <br>
