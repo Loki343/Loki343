@@ -79,11 +79,19 @@
 
 ## 📊 **My Github Stats**
 
+<p align="left"><img  src="https://metrics.lecoq.io/Loki343" alt="kausik" /></p>
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="potbharenitin6684" /></p>
 
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="potbharenitin6684" /></p>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343&theme=2077"  />
+
+
+![GitHub metrics](https://metrics.lecoq.io/Loki343)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Loki343&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- support me section -->
