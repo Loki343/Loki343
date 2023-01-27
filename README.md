@@ -79,7 +79,7 @@
 
 ## 📊 **My Github Stats**
 
-<img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>
+<!-- <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/> -->
 
 <img align="right" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" />
 
