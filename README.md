@@ -81,17 +81,17 @@
 
 <!-- <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/> -->
 
-<img align="right" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" />
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="potbharenitin6684" />
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="potbharenitin6684" />
 
-<img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="potbharenitin6684" />
+<img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="potbharenitin6684" />
 
-<img align="left" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="potbharenitin6684" />
+<img align="right" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="potbharenitin6684" />
 <br/>
 <br/>
-<p align="right">
-    <img align="right" width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="potbharenitin6684" />
+<p align="left">
+    <img align="left" width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="potbharenitin6684" />
 </p>
 <!-- support me section -->
 <!-- <h2 align='center'>Support Me By ⭐</h2>
