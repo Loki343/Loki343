@@ -123,13 +123,6 @@
     <img width="150px" src="https://komarev.com/ghpvc/?username=Loki343">
 </a>
 <a href="https://github.com/Loki343?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/Loki343?label=Followers&style=social" alt="GitHub Badge"></a> 
-<a href="https://github.com/devendra684?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devendra684"/>
+<a href="https://github.com/Loki343?tab=repositories&sort=stargazers">
+    <img alt="total stars" width="150px" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Loki343"/>
  </a>
-
-<!-- <p align="left">
-<!--   <img src="https://komarev.com/ghpvc/?username=devendra684&label=Visitors&color=0e75b6&style=flat" alt="devendra684" /> 
- <img src="https://img.shields.io/github/followers/devendra684?label=Followers&style=flat&color=0e75b6" alt="devendra684"/> -->
- 
- </p> -->
-
