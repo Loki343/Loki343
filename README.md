@@ -48,7 +48,13 @@
 <!-- <br/> -->
 
 
-## 🚀 **Languages and Tools:**
+<!-- ## 🚀 **Languages and Tools:** -->
+<h4 align="left" ><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> 
+ Languages | Tools 
+ <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+ </h4>
+
 <div >
  <div ><h3>Frontend:-</h3>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
@@ -77,7 +83,12 @@
  </div>
 </div>
 
-## 📊 **My Github Stats**
+<!-- ## 📊 **My Github Stats** -->
+ <h2 align="center">
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+ My Github Stats 
+ <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h2>
 
 <!-- <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/> -->
 
@@ -111,7 +122,14 @@
 <a href="https://github.com/Loki343/github-profile-views-counter">
     <img width="150px" src="https://komarev.com/ghpvc/?username=Loki343">
 </a>
-<a href="https://github.com/Loki343?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/Loki343?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Loki343?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/Loki343?label=Followers&style=social" alt="GitHub Badge"></a> 
+<a href="https://github.com/devendra684?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devendra684"/>
+ </a>
 
-
+<!-- <p align="left">
+<!--   <img src="https://komarev.com/ghpvc/?username=devendra684&label=Visitors&color=0e75b6&style=flat" alt="devendra684" /> 
+ <img src="https://img.shields.io/github/followers/devendra684?label=Followers&style=flat&color=0e75b6" alt="devendra684"/> -->
+ 
+ </p> -->
 
