@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loki343" alt="loki343" /></a> </p>
 
-<h2 align="center"> :card_file_box: About Me</h2>
+<h2 align="center"> :card_file_box: About Me :card_file_box:</h2>
 <h4   align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
 
 
@@ -36,7 +36,7 @@
 <br/>
 
 
-## 📱 **Connect with me:**
+## 📱 **Connect with me:** 📱
 <p align="left">
     <a href="https://api.whatsapp.com/send/?phone=917980710518&text&type=phone_number&app_absent=0" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="kausik bhaumik" height="40" width="40" />
@@ -83,7 +83,7 @@
  </div>
 </div>
 
-<!-- ## 📊 **My Github Stats** -->
+<!-- ## 📊 **My Github Stats** 📊-->
  <h2 align="center">
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
  My Github Stats 
@@ -92,17 +92,17 @@
 
 <!-- <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>a -->
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="potbharenitin6684" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="Loki343" />
 
 <br/>
 
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="potbharenitin6684" />
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="Loki343" />
 
-<img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="potbharenitin6684" />
+<img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="Loki343" />
 
-<img align="right" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="potbharenitin6684" />
+<img align="right" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="Loki343" />
 
-<img align="center" width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="potbharenitin6684" />
+<img align="center" width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="Loki343" />
 
 <!-- support me section -->
 <!-- <h2 align='center'>Support Me By ⭐</h2>
@@ -117,7 +117,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=If%20You%20Like%20My%20Profile%20Follow%20Me;&center=true&width=500&height=50">
 </p>
 
-## ❤ **Views and Followers**
+## ❤ **Views and Followers** ❤
   
 <a href="https://github.com/Loki343/github-profile-views-counter">
     <img width="150px" src="https://komarev.com/ghpvc/?username=Loki343">
