@@ -91,7 +91,7 @@
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h2>
 
-<!-- <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>a -->
+<!--. <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>a -->
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="Loki343" />
 
