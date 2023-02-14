@@ -120,7 +120,7 @@
 
 ## ❤ **Views and Followers** ❤
   
-<a href="https://github.com/Loki343/github-profile-views-counter">
+<a href="https://github.com/Loki343?tab=repositories&sort=stargazers">
     <img width="150px" src="https://komarev.com/ghpvc/?username=Loki343">
 </a>
  
