@@ -59,7 +59,7 @@
  <div ><h3>Frontend:-</h3>
      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
      <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-     <img src="https://img.shields.io/badge/scss-339933?style=for-the-badge&logo=css&logoColor=white" align="center" alt="scss" />
+     <img src="https://img.shields.io/badge/sass-339933?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="sass" />
      <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
