@@ -106,10 +106,12 @@
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="Loki343" />
 
 <img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="Loki343" />
-
+ <div align="center">
 <img align="right" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="Loki343" />
-
-<img align="center" width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343" alt="Loki343" />
+</div>
+ <div align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343&theme=react-dark&hide_border=true" alt="kumkum Activity Graph" />
+</div>
 
 <!-- support me section -->
 <!-- <h2 align='center'>Support Me By ⭐</h2>
@@ -134,3 +136,8 @@
     <img alt="total stars" width="100px" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Loki343"/>
  </a>
  <a href="https://github.com/Loki343?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/Loki343?label=Followers&style=social" alt="GitHub Badge"></a>
+ 
+ 
+ 
+ 
+
