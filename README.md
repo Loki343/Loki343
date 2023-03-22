@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20the%20New%20World%20of%20CODING&center=true&width=500&height=50">
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loki343" alt="loki343" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Loki343&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="loki343" /></a> </p>
 
 <h2 align="center"> :card_file_box: About Me :card_file_box:</h2>
 <h4   align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
