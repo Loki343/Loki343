@@ -98,16 +98,18 @@
 </h2>
 
 <!--. <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>a -->
-
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&show_icons=true&locale=en&layout=compact" alt="Loki343" />
-
+<div align="center">
+    <img width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&theme=react&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Loki343" />
+</div>
 <br/>
-
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=Loki343&show_icons=true&locale=en" alt="Loki343" />
-
-<img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&" alt="Loki343" />
- <div align="center">
-<img align="right" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343" alt="Loki343" />
+<div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Loki343&theme=react&hide_border=true&show_icons=true&locale=en" alt="Loki343" />
+</div>
+<div align="center">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Loki343&theme=react&hide_border=true" alt="Loki343" />
+<div align="center">
+<div align="center">
+    <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343&theme=react&hide_border=true" alt="Loki343" />
 </div>
  <div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343&theme=react-dark&hide_border=true" alt="kumkum Activity Graph" />
