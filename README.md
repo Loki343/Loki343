@@ -73,9 +73,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-     <img src="https://img.shields.io/badge/cypress-593D88?style=for-the-badge&logo=cypress&logoColor=white"  align="center" alt="cypress" />
-    <img src="https://img.shields.io/badge/storybook-%23E34F26.svg?style=for-the-badge&logo=storybook&logoColor=white" align="center" alt="html5">
-    
+    <img src="https://img.shields.io/badge/cypress-593D88?style=for-the-badge&logo=cypress&logoColor=white"  align="center" alt="cypress" />
 </div>
     
   <div ><h3>Tools:-</h3> 
