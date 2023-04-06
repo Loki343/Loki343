@@ -67,6 +67,7 @@
      <img src = "https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="typescript">
      <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white" align="center" alt="nextjs"/>
      <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+     <img src = "https://img.shields.io/badge/material ui-%23323330.svg?style=for-the-badge&logo=materialui&logoColor=white" align="center" alt="chakra-ui"/>
      </p>
 </div>
 
