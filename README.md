@@ -91,15 +91,20 @@
 </div>
 
 <!-- ## 📊 **My Github Stats** 📊-->
+
  <h2 align="center">
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
  My Github Stats 
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h2>
 
-<!--. <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>a -->
+<div align="center">
+<img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>
+</div>
+    
 <div align="center">
     <img width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Loki343&theme=react&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Loki343" />
+    
 </div>
 <br/>
 <div align="center">
@@ -123,7 +128,7 @@
 <br> -->
 
 <br/>
-
+    
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=If%20You%20Like%20My%20Profile%20Follow%20Me;&center=true&width=500&height=50">
 </p>
