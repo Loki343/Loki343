@@ -100,7 +100,7 @@
 </h2>
 
 <div align="center">
-<img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/>
+<!-- <img width="500" align="center" src="https://metrics.lecoq.io/Loki343" alt="kausik"/> -->
 </div>
     
 <div align="center">
