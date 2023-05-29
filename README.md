@@ -118,7 +118,7 @@
     <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loki343&theme=react&hide_border=true" alt="Loki343" />
 </div>
  <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343&theme=react-dark&hide_border=true" alt="kumkum Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Loki343&theme=react-dark&hide_border=true" alt="Kausik Activity Graph" />
 </div>
 
 <!-- support me section -->
