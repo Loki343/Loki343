@@ -15,7 +15,7 @@
 <h4   align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
 
 
-- 🌱 I’m currently learning **TypeScript and NextJS**
+- 🌱 I’m currently learning **RTK Query**
 
 - 👨‍💻 All of my projects are available at : <a href="https://loki343.github.io/">PORTFOLIO</a>
 
