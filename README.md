@@ -12,7 +12,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Loki343&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="loki343" /></a> </p>
 
 <h2 align="center"> :card_file_box: About Me :card_file_box:</h2>
-<h4   align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
+<h4   align='center'>Passionate about implementing and launching new projects. I also possess the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
 
 
 - 🌱 I’m currently learning **RTK Query**
@@ -64,6 +64,7 @@
      <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+         <img src="https://img.shields.io/badge/Redux toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux-toolkit" />
      <img src = "https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="typescript">
      <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white" align="center" alt="nextjs"/>
      <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
